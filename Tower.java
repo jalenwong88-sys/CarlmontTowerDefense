@@ -59,6 +59,6 @@ public class Tower {
         g.setColor(Color.BLUE);
         g.fillRect(x, y, 24, 24);
     }
-
+s
 
 }
